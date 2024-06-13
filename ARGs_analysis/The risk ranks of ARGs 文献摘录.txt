@@ -1,0 +1,147 @@
+I	current threats	Aminoglycoside	aac(3)-II								
+I	current threats	Aminoglycoside	aac(3)-VI								
+I	current threats	Aminoglycoside	aac(6')-I								catA
+I	current threats	Aminoglycoside	aadE								catB
+I	current threats	Aminoglycoside	ant(2'')-I								cmlA
+I	current threats	Aminoglycoside	aph(3')-I								floR
+I	current threats	Aminoglycoside	aph(3')-III								
+I	current threats	Aminoglycoside	aph(6)-I								
+I	current threats	Aminoglycoside	rmtF								
+I	current threats	Aminoglycoside	rmtG								
+I	current threats	Beta-lactam	bacA								
+I	current threats	Beta-lactam	blaZ								
+I	current threats	Beta-lactam	CMY-4								
+I	current threats	Beta-lactam	CMY-6								
+I	current threats	Beta-lactam	CMY-111								
+I	current threats	Beta-lactam	CTX-M-2								
+I	current threats	Beta-lactam	CTX-M-15								
+I	current threats	Beta-lactam	CTX-M-24								
+I	current threats	Beta-lactam	CTX-M-55								
+I	current threats	Beta-lactam	CTX-M-129								
+I	current threats	Beta-lactam	GES-11								
+I	current threats	Beta-lactam	IMP-4								
+I	current threats	Beta-lactam	KPC-2								
+I	current threats	Beta-lactam	KPC-4								
+I	current threats	Beta-lactam	KPC-6								
+I	current threats	Beta-lactam	mecA								
+I	current threats	Beta-lactam	mecR1								
+I	current threats	Beta-lactam	NDM-5								
+I	current threats	Beta-lactam	NDM-6								
+I	current threats	Beta-lactam	OXA-1								
+I	current threats	Beta-lactam	OXA-4								
+I	current threats	Beta-lactam	OXA-10								
+I	current threats	Beta-lactam	SHV-1								
+I	current threats	Beta-lactam	SHV-5								
+I	current threats	Beta-lactam	TEM-1								
+I	current threats	Beta-lactam	TEM-156								
+I	current threats	Beta-lactam	TEM-169								
+I	current threats	Beta-lactam	VEB-3								
+I	current threats	Beta-lactam	VIM-1								
+I	current threats	Beta-lactam	VIM-2								
+I	current threats	Chloramphenicol	catA								
+I	current threats	Chloramphenicol	catB								
+I	current threats	Chloramphenicol	cmlA								
+I	current threats	Chloramphenicol	floR								
+I	current threats	Colistin	mcr-1								
+I	current threats	MLS	ermB								
+I	current threats	MLS	ermC								
+I	current threats	MLS	ermT								
+I	current threats	MLS	lnuA								
+I	current threats	MLS	lnuB								
+I	current threats	MLS	mphA								
+I	current threats	MLS	mphB								
+I	current threats	MLS	msrA								
+I	current threats	Multi-drug	emrB-qacA								
+I	current threats	Multi-drug	mdtE								
+I	current threats	Multi-drug	mdtL								
+I	current threats	Multi-drug	mepA								
+I	current threats	Multi-drug	norA								
+I	current threats	Multi-drug	TolC								
+I	current threats	Quinolone	qnrA								
+I	current threats	Quinolone	qnrB								
+I	current threats	Quinolone	qnrS								
+I	current threats	Tetracycline	tetL								
+I	current threats	Tetracycline	tetM								
+I	current threats	Trimethoprim	dfrA1								
+I	current threats	Trimethoprim	dfrA5								
+I	current threats	Trimethoprim	dfrA12								
+I	current threats	Trimethoprim	dfrA14								
+I	current threats	Trimethoprim	dfrA15								
+I	current threats	Trimethoprim	dfrA17								
+I	current threats	Trimethoprim	dfrA25								
+I	current threats	Trimethoprim	dfrB1								
+I	current threats	Vancomycin	vanY								
+II	future threats	Aminoglycoside	aadA								
+II	future threats	Aminoglycoside	aph(2'')-Ie								
+II	future threats	Aminoglycoside	aph(3')-VII								
+II	future threats	Beta-lactam	CMY-2								
+II	future threats	Beta-lactam	OXA-72								
+II	future threats	Beta-lactam	penA								
+II	future threats	Beta-lactam	ROB-1								
+II	future threats	Beta-lactam	SHV								
+II	future threats	Chloramphenicol	catA								
+II	future threats	MLS	ermB								
+II	future threats	MLS	vatE								
+II	future threats	Multi-drug	ermD								
+II	future threats	Multi-drug	mdtA								
+II	future threats	Multi-drug	mdtG								
+II	future threats	Multi-drug	mdtH								
+II	future threats	Multi-drug	mdtM								
+II	future threats	Tetracycline	tetM								
+II	future threats	Tetracycline	tetO								
+II	future threats	Tetracycline	tetW								
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
